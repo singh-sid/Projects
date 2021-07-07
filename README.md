@@ -16,5 +16,7 @@
 <h4>Keycode Security System</h4>
 <p>April 2021</p>
 <p>Designed and assembled a FSM that turns on a motor/LED combo when a correct code is entered, but produces an audible sound (&ldquo;alarm&rdquo;) if an incorrect code is entered.</p>
-<p><img style="float: left;" src="https://github.com/singh-sid/projects/blob/51eeb179aee317c83113ee64a4bdf26e871a060c/finaldesigncircuit.png" alt="" width="800" height="717" /></p>
+<p><a href="https://github.com/singh-sid/projects/blob/82ea709a051521be6ecd43bff1910a5c497d9f27/finaldesigncircuit.png">Final Design Image</a></p>
 <p><a href="https://github.com/singh-sid/projects/blob/175e49080b7b9add4e90dd2d1da17a843c978282/DesignReport.pdf">Specifications and Design Process</a></p>
+<p><a href="https://github.com/singh-sid/projects/blob/82ea709a051521be6ecd43bff1910a5c497d9f27/ELEC2210FinalDesign.ms14">ms14 file</a></p>
+
